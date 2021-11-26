@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\protoype"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\Prototype UI"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "findjob",
+		"git.enabled": false
+	}
+}
